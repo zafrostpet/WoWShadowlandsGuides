@@ -1,10 +1,10 @@
-ID,Dungeon Entrances,Note,Entrance Location
-1,The Necrotic Wake,,https://youtu.be/_Z5O9D365dQ
-2,Spires of Ascension,,https://youtu.be/9mhERC6pw7c
-3,Plaguefall,,https://youtu.be/G6T3FIQdX9E
-4,Theater of Pain,,https://youtu.be/VE5wIYWwnSs
-5,Mists of Tirna Scithe,,https://youtu.be/lPQaNgE7F_A
-6,De Other Side,,https://youtu.be/2G1iTd4T4-M
-7,Halls of Atonement,,https://youtu.be/RMUJXsL9-lM
-8,Sanguine Depths,,https://youtu.be/1OOSdNog3d8
-9,Castle Nathria,Raid,https://youtu.be/kvEBb0xyk7E
+ID,Dungeon Entrances,Coordinates,Zone,Entrance Location,lvl
+1,The Necrotic Wake,40.33 55.23,Bastion,https://youtu.be/_Z5O9D365dQ,51
+2,Spires of Ascension,58.47 28.70,Bastion,https://youtu.be/9mhERC6pw7c,60
+3,Plaguefall,59.30 64.84,Maldraxxus,https://youtu.be/G6T3FIQdX9E,53
+4,Theater of Pain,53.21 53.14,Maldraxxus,https://youtu.be/VE5wIYWwnSs,60
+5,Mists of Tirna Scithe,35.71 54.21,Ardenweald,https://youtu.be/lPQaNgE7F_A,55
+6,De Other Side,68.60 65.98,Ardenweald,https://youtu.be/2G1iTd4T4-M,60
+7,Halls of Atonement,77.96 48.52,Revendreth,https://youtu.be/RMUJXsL9-lM,57
+8,Sanguine Depths,51.09 30.07,Revendreth,https://youtu.be/1OOSdNog3d8,60
+9,Castle Nathria,45.76 41.49,Revendreth,https://youtu.be/kvEBb0xyk7E,60
